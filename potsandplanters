@@ -31,9 +31,13 @@
 </head>
 
 <body>
+
+
+
     <header class="col-12 d-flex gap-5">
+<a href="index.html"
         <img class="col-1 my-1" src="https://www.ugaoo.com/cdn/shop/files/logo.png?height=64&v=1726638812" alt=""
-            height="60px" />
+            height="60px" />/>
         <nav class="col-7 d-flex gap-5 my-4 nav">
             <div class="plant-drop">
                 <li class="plant"><a href="">PLANTS</a></li>
